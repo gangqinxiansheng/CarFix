@@ -11,7 +11,7 @@
  const CACHE_SKIN = 'SKIN_PID';
 
  function getSkin() {
- 	return module.exports = {
+ 	return  {
  		PID: 'A00', //4S店
 
  		NAV_COLOR: '#ffffff',
